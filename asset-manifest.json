@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoSlice/static/css/main.2e2b1294.css",
+    "main.js": "/TodoSlice/static/js/main.787c5914.js",
+    "index.html": "/TodoSlice/index.html",
+    "main.2e2b1294.css.map": "/TodoSlice/static/css/main.2e2b1294.css.map",
+    "main.787c5914.js.map": "/TodoSlice/static/js/main.787c5914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e2b1294.css",
+    "static/js/main.787c5914.js"
+  ]
+}
